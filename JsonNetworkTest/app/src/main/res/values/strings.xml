@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JsonNetworkTest</string>
+    <string name="bus_url">http://ws.bus.go.kr/</string>
+    <string name="busStop_key">uB/nsMUfO+kSEt0Fw0DTICqW57S+TvxvquTZeG222IDPI1vNbvwp5i5yaK9l7XKOEylD35zJHPYu7A4+ppU0xg==</string>
+    <string name="busArrive_key">uB/nsMUfO+kSEt0Fw0DTICqW57S+TvxvquTZeG222IDPI1vNbvwp5i5yaK9l7XKOEylD35zJHPYu7A4+ppU0xg==</string>
+    <string name="busInfo_key">uB/nsMUfO+kSEt0Fw0DTICqW57S+TvxvquTZeG222IDPI1vNbvwp5i5yaK9l7XKOEylD35zJHPYu7A4+ppU0xg==</string>
+    <string name="busLocation_key">uB/nsMUfO+kSEt0Fw0DTICqW57S+TvxvquTZeG222IDPI1vNbvwp5i5yaK9l7XKOEylD35zJHPYu7A4+ppU0xg==</string>
+</resources>
